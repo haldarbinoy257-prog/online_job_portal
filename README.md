@@ -24,3 +24,5 @@ npm run dev
 ---
 
 Author:BINOY HALDER
+email: haldarbinoy257@gmail.com
+ph   : 9547664175
